@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rajeshlamichhane04
-- 👀 I’m interested in data.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on data.
+- 👋 Hi, I’m Rajesh Lamichhane.
+- 🌱 I’m currently learning Data Science at CodeUp Bootcamp.
+- 💞️ I’m looking to collaborate on working with data.
 - 📫 How to reach me? email: rajesh.lamichhane04@gmail.com
 
 <!---
