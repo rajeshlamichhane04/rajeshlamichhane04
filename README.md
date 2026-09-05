@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rajesh Lamichhane.
-- 🌱 I’m currently learning Data Science at Codeup Bootcamp.
 - 💞️ I’m looking to collaborate on working with data.
 - 📫 How to reach me? email: rajesh.lamichhane04@gmail.com
 
